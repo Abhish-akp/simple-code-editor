@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-(![Screenshot (1)](https://github.com/Abhish-akp/simple-code-editor/assets/119518824/97ef47ac-1074-4540-b80a-05210c09b631)
-)
+![Screenshot (1)](https://github.com/Abhish-akp/simple-code-editor/assets/119518824/97ef47ac-1074-4540-b80a-05210c09b631)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
