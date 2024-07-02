@@ -24,7 +24,7 @@ const App = () => {
       <p style={{ textAlign: 'center' }}>A simple no-frills code editor with syntax highlighting.</p>
       <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
         <button
-          onClick={() => window.open('https://github.com/satya164/react-simple-code-editor', '_blank')}
+          onClick={() => window.open('https://github.com/Abhish-akp/simple-code-editor', '_blank')}
           style={{
             padding: '10px 20px',
             backgroundColor: '#000',
